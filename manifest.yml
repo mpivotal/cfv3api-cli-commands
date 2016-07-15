@@ -1,6 +1,5 @@
 ---
 applications:
-- name: cf-nodejs
+- name: cfv3api-cli-commands
   memory: 512M
   instances: 1
-  random-route: true
